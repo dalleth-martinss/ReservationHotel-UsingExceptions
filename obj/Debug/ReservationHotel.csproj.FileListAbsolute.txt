@@ -1,0 +1,7 @@
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\bin\Debug\ReservationHotel.exe.config
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\bin\Debug\ReservationHotel.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\bin\Debug\ReservationHotel.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\obj\Debug\ReservationHotel.csproj.AssemblyReference.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\obj\Debug\ReservationHotel.csproj.CoreCompileInputs.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\obj\Debug\ReservationHotel.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ReservationHotel\obj\Debug\ReservationHotel.pdb
