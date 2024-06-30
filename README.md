@@ -15,7 +15,7 @@ Fiz o uso de `Exceptions` para fazer os tratamentos de erros caso o cliente digi
 ## Tecnologias Utilizadas 🛠️❤️
 
 - **Linguagem:** C#
-- **IDE:** Visual Studio / .Net 8
+- **IDE:** Visual Studio.
 
 ## Como Utilizar😎 📝
 
